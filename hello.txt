@@ -1,2 +1,2 @@
 Hello GitHub!
-  This is my first file.
+  I am learning version control.
