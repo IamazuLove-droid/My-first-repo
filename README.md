@@ -1,2 +1,3 @@
 # My-first-repo
-Just learning Github basics
+Hello, my name is Azu😊
+I am learning GitHub basics.
